@@ -3,6 +3,7 @@
 ## Project Overview
 
 Este projeto foi desenvolvido utilizando vários recursos do **DBT-Core** e configurações do **PostgreSQL** em um **RDS da AWS**. O **DBeaver** foi utilizado como sistema de gerenciamento local. O projeto gera tabelas usando a biblioteca **Faker**, seguindo uma arquitetura de **Data Lake**. 
+Todos os modelos e recursos criados seguem a documentação oficial do DBT.
 
 
 ### Recursos Utilizados
