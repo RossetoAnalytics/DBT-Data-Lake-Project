@@ -31,10 +31,9 @@ O projeto foi estruturado seguindo a arquitetura de Data Lake, que inclui os seg
 <details>
   <summary>Visuais</summary>
 
-**Lineage no DBT Localhost**
+**Lineage no DBT Localhost e estrutura no Dbeaver**
 ![dbt-marts-run-lineage](https://github.com/user-attachments/assets/c1ad890c-8a2f-40cb-a016-a9ba6863e591)
 
-**Estrutura no Dbeaver**
 ![dbt-mart](https://github.com/user-attachments/assets/7ceac08c-47d0-4267-be88-43b055b717e2)
 
 </details>
