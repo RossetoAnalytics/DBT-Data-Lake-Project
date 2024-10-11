@@ -31,25 +31,17 @@ O projeto foi estruturado seguindo a arquitetura de Data Lake, que inclui os seg
 
 ### Resultados
 
-<details>
-  <summary>Visuais</summary>
-
 **Lineage no DBT Localhost e estrutura no Dbeaver**
 ![dbt-marts-run-lineage](https://github.com/user-attachments/assets/c1ad890c-8a2f-40cb-a016-a9ba6863e591)
 
 ![dbt-mart](https://github.com/user-attachments/assets/7ceac08c-47d0-4267-be88-43b055b717e2)
 
-</details>
 
 ### Documentação
-
-<details>
-  <summary>Visuais</summary>
 
 ![dbt-mart-localhost](https://github.com/user-attachments/assets/86d1dadf-1a7a-49b7-a640-ab03cecd16cb)
 
 
-</details>
 
 A documentação do projeto foi gerada e pode ser visualizada em um ambiente local. Os seguintes comandos foram utilizados:
 
