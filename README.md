@@ -5,7 +5,7 @@
 Este projeto foi desenvolvido utilizando vários recursos do **DBT-Core** e configurações do **PostgreSQL** em um **RDS da AWS**. O **DBeaver** foi utilizado como sistema de gerenciamento local. O projeto gera tabelas usando a biblioteca **Faker**, seguindo uma arquitetura de **Data Lake**. 
 Todos os modelos e recursos criados seguem a documentação oficial do DBT.
 
-O que fazemos aqui é o desenvolvimento de dados brutos, para dados um pouco mais refinados na camada de staging, criando no fim data marts. São vários recursos do DBT-Core, permitindo a criação de um fluxograma das tabelas, suas transformações e dependências. São usados macros para criação de tabelas e esquemas automaticamente, além do recurso Snapshot, do qual podemos capturar as mudanças dos elementos apontados durante sua configuração, armazenando de forma histórica (semelhante a um processo de CDC).
+O que fazemos aqui é o desenvolvimento de dados brutos, para dados um pouco mais refinados na camada de staging, criando no fim data marts. São vários recursos do DBT-Core, permitindo a criação de um fluxograma das tabelas, suas transformações e dependências. São usados macros para criação de tabelas e esquemas automaticamente, além do recurso Snapshot, do qual podemos capturar as mudanças dos elementos apontados durante sua configuração, armazenando de forma histórica (semelhante a um processo de CDC). Estes recursos são trabalhados localmente, e armazenados em ambiente cloud.
 
 
 ### Recursos Utilizados
